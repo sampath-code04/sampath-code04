@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF5733&lines=HELLO+WORLD+!)](https://git.io/typing-svg)
 
 ## About Me
-<picture> <img align="right" src="https://github.com/sampath-code04/Right_Side.gif?raw=true" width = 250px></picture>
+<picture> <img align="right" src="https://github.com/sampath-code04/sampath-code04/blob/main/Right_Side.gif?raw=true" width = 250px></picture>
 Hello! I'm **SAMPATH**, a tech enthusiast passionate about software development, automation, and cybersecurity. I strive to combine my interests in coding and security to create innovative solutions.
 
 ### 🌟 Languages & Skills
